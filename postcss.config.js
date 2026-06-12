@@ -1,6 +1,6 @@
 export default {
   plugins: {
-    tailwindcss: {},
+    '@tailwindcss/postcss': {}, // Hata mesajının bizden istediği yeni eklenti bu
     autoprefixer: {},
   },
 }
