@@ -1,5 +1,23 @@
-# Vue 3 + TypeScript + Vite
+# Kids Tree - Staj Projesi
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Bu proje, staj kapsamında geliştirilen modern bir frontend uygulamasıdır.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## 🛠 Kullanılan Teknolojiler
+* **Vue.js 3** (Composition API)
+* **Vite** (Build Tool)
+* **TypeScript**
+* **Tailwind CSS** (Stil)
+
+## 🚀 Kurulum Adımları
+1. Projeyi bilgisayarınıza klonlayın:
+   `git clone [SENIN-REPO-LINKIN]`
+2. Proje dizinine girin:
+   `cd staj-frontend-projesi`
+3. Gerekli kütüphaneleri yükleyin:
+   `npm install`
+
+## ▶️ Çalıştırma Komutları
+* **Geliştirme sunucusunu başlatmak için:**
+  `npm run dev`
+* **Projeyi build etmek için:**
+  `npm run build`
