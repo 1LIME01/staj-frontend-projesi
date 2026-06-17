@@ -10,7 +10,7 @@ Bu proje, staj kapsamında geliştirilen modern bir frontend uygulamasıdır.
 
 ## 🚀 Kurulum Adımları
 1. Projeyi bilgisayarınıza klonlayın:
-   `git clone [[SENIN-REPO-LINKIN](https://github.com/1LIME01/staj-frontend-projesi)]`
+   `git clone https://github.com/1LIME01/staj-frontend-projesi`
 2. Proje dizinine girin:
    `cd staj-frontend-projesi`
 3. Gerekli kütüphaneleri yükleyin:
