@@ -95,7 +95,6 @@ const currentSlide = ref(0)
   opacity: 1;
   transform: translateY(0);}
 
-/* Harflerin/Satırların sırayla süzülmesi için gecikmeler */
 .delay-200 { transition-delay: 1000ms; }
 .delay-400 { transition-delay: 1200ms; }
 </style>
